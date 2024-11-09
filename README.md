@@ -1,0 +1,2 @@
+# User Registration
+Ce projet permet d'enregistrer des utilisateurs avec leur prénom et nom, et d'afficher les cinq premiers utilisateurs inscrits en utilisant le `slicing`. Ce projet démontre une gestion simple des utilisateurs avec une liste et l'utilisation de `slicing` pour accéder à une portion spécifique de données.
